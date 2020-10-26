@@ -1,6 +1,6 @@
 [{
-    "prompt": "Question1 Prompt",
-    "answer": "Question1 Answer"
+    "prompt": "Question1\nMulti\nLine\nPrompt",
+    "answer": "Question1\nMulti\nLine\nAnswer"
 }, {
     "prompt": "Question2 Prompt",
     "answer": "Question2 Answer"
